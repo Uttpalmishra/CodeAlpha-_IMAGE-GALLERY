@@ -22,7 +22,7 @@ JavaScript: Interactivity
 
 # Live Demo
 
-Check out the live demo of the project here: Image Gallery
+Check out the live demo of the project here: [Image Gallery](https://code-alpha-image-gallery-flax.vercel.app/)
 
 # Acknowledgments
 
